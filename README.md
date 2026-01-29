@@ -25,7 +25,3 @@ Solution to the Kaggle **House Prices: Advanced Regression Techniques** competit
 2. Place CSV files inside `data/`
 3. Run the notebook
 
----
-
-## ✍️ Author
-Mohamed
